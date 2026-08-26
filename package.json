@@ -1,0 +1,23 @@
+{
+  "name": "reach17-api",
+  "version": "1.0.0",
+  "description": "REST API for Reach17 training platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "rest-api"
+  ],
+  "author": "Paolo Gomiero",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3"
+  }
+}
